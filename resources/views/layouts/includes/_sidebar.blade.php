@@ -6,7 +6,7 @@
         <div class="sidebar-brand-icon">
             <i class="fab fa-gitkraken"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">E-Simpeg</div>
+        <div class="sidebar-brand-text mx-3">e-BPIP</div>
     </a>
 
     <!-- Divider -->

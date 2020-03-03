@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>e-Simpeg</title>
+    <title>e-BPIP</title>
 
     <link rel="icon" href="https://laravel.com/img/favicon/favicon-32x32.png">
 
@@ -54,7 +54,7 @@
                 <footer class="sticky-footer bg-white">
                     <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; e-Simpeg on Goverments {{ date('Y') }}</span>
+                        <span>Copyright &copy; e-BPIP on Goverments {{ date('Y') }}</span>
                     </div>
                     </div>
                 </footer>

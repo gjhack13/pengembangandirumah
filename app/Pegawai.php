@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 class Pegawai extends Model
 {
     protected $table = 'slidefotoatas';
-    protected $fillable = ['nama_depan', 'nama_belakang', 'jenis_kelamin', 'agama', 'alamat', 'avatar', 'user_id'];
+    protected $fillable = ['judul_image1', 'image1', 'judul_image2', 'image2', 'judul_image3', 'image3'];
 
     public function getAvatar()
     {

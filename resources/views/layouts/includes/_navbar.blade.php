@@ -7,7 +7,7 @@
     </button>
 
     
-    <p class="text-uppercase">Sistem Manajemen Data Pegawai Pada pemerintahan &copy; {{ date('Y') }}</p>
+    <p class="text-uppercase">Sistem Manajemen Portal Laman Badan Pembinaan Ideologi Pancasila &copy; {{ date('Y') }}</p>
     <!-- Topbar Navbar -->
     <ul class="navbar-nav ml-auto">
 
